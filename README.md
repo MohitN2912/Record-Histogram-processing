@@ -174,7 +174,8 @@ plt.show()
 
 <img width="1340" height="550" alt="image" src="https://github.com/user-attachments/assets/4af17690-7768-4136-9b94-4f5ddad59417" />
 
-![Uploading image.png…]()
+<img width="1318" height="542" alt="image" src="https://github.com/user-attachments/assets/681cfb19-6d44-495b-acd8-d44a28026147" />
+
 
 
 
