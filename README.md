@@ -105,10 +105,10 @@ plt.title("Equalized Histogram")
 plt.tight_layout()
 plt.show()
 
-img = cv2.imread("parrot.jpg")
+img = cv2.imread("parrot.png")
 
 if img is None:
-    print("Error: parrot.jpg not found.")
+    print("Error: parrot.png not found.")
     exit()
 
 img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
