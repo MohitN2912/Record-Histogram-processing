@@ -77,7 +77,7 @@ import matplotlib.pyplot as plt
 gray = cv2.imread("parrot.png", cv2.IMREAD_GRAYSCALE)
 
 if gray is None:
-    print("Error: parrot.jpg not found.")
+    print("Error: parrot.png not found.")
     exit()
 
 gray_eq = cv2.equalizeHist(gray)
