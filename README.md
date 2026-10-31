@@ -168,6 +168,17 @@ plt.show()
 
 ##  Output
 
+<img width="1352" height="548" alt="image" src="https://github.com/user-attachments/assets/2cc80c6c-243a-484b-9581-c1dbf8b7d21b" />
+
+<img width="1342" height="558" alt="image" src="https://github.com/user-attachments/assets/8d84ec47-f96a-4e31-bc73-2b60db4f6f54" />
+
+<img width="1340" height="550" alt="image" src="https://github.com/user-attachments/assets/4af17690-7768-4136-9b94-4f5ddad59417" />
+
+![Uploading image.png…]()
+
+
+
+
 
 ### Grayscale Histogram Equalization
 
